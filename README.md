@@ -37,4 +37,5 @@ En effet ces personnes doivent suivre un **régime hypoprotidique** très strict
 
 La pré-prototype de l'application sera dans un premier temps,  un **moteur de recommandation** : à partir de la recherche d'un produit, la liste des produits les plus sains classés par score (le nombre de g de protéines le plus faible possible, produit le plus sain donc nutri-score le plus bas et produit peu transformé donc groupe Nova le plus faible) sera proposée, après interrogation du jeu de données nettoyés et imputés à partir de la base de données d'*Open Food Facts*.
 
+**Exemple de recherche**
 ![P3_application](https://user-images.githubusercontent.com/71518818/135097470-28a73d2f-74df-417e-abdb-c549f3d3553f.png)
