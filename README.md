@@ -7,9 +7,13 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 
 ![P3_Presentation](https://user-images.githubusercontent.com/71518818/135096043-8d494e26-7c5f-4c6c-bf8c-13e9b5605376.png)
 
-## Les données
+## Source
 
 Le jeu de données Open Food Fact est disponible sur le site officiel. Les variables sont définies à cette adresse: https://world.openfoodfacts.org/
+
+## Boîte à outils
+
+![P3_outils](https://user-images.githubusercontent.com/71518818/135883603-9b8112cd-ba0c-475b-832b-f77641578972.png)
 
 ## Objectifs
 
@@ -39,3 +43,14 @@ La pré-prototype de l'application sera dans un premier temps,  un **moteur de r
 
 **Exemple de recherche**
 ![P3_application](https://user-images.githubusercontent.com/71518818/135097470-28a73d2f-74df-417e-abdb-c549f3d3553f.png)
+
+## Compétences
+- Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes.
+- Effectuer des opérations de nettoyage sur des données structurées.
+- Effectuer une analyse statistique multivariée.
+- Effectuer une analyse statistique univariée.
+
+## Éaluation
+
+![P3_eval_1](https://user-images.githubusercontent.com/71518818/135883916-41c99d49-2387-489a-9e91-afce750d32bb.png)
+![P3_eval_2](https://user-images.githubusercontent.com/71518818/135883980-2548100a-5e76-471b-8d4e-80f885b35946.png)
